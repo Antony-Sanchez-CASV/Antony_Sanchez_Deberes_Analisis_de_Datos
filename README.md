@@ -1,5 +1,8 @@
 # Antony_Sanchez_Deberes_Analisis_de_Datos
-Repositorio general de los deberes de Análisis de datos
+Deber Matrices:
+Realizar una multiplicación de matrices,la cual tiene valores que son ingresados por el usuario.
+El usuario también debe definir la dimensión de las matrices.
+Subir en el aula virtual el código y captura de pantallas de la ejecución.
 <br>
 <img src="https://github.com/Antony-Sanchez-CASV/Antony_Sanchez_Deberes_Analisis_de_Datos/blob/Deber_Matrices/imagenes/deber_analisis_matrices1.png">
 <img src="https://github.com/Antony-Sanchez-CASV/Antony_Sanchez_Deberes_Analisis_de_Datos/blob/Deber_Matrices/imagenes/deber_analisis_matrices2.png">
