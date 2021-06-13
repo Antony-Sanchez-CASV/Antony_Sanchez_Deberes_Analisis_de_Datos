@@ -6,7 +6,7 @@ dic={}
 while linea!="":
     palabras=linea.split()
     for i in range(len(palabras)):
-        palabra=re.sub('[?|.|!|\/|;|:|,|”|“]','',palabras[i])
+        palabra=re.sub('[?|.|!|\/|;|:|,|”|“|(|)]','',palabras[i])
         #Elimina los caracteres no deseados
         #No elimina ' y - por que podria cauasr muchas confuciones
         #Esos tendrian que ser con split pero no encuentro una manera de
@@ -14,10 +14,11 @@ while linea!="":
         if palabra in dic:#revisa si existe la palabra
             dic[palabra]+=1#añade una ocurrencia
         else:
-            dic.update({palabra:1})
+            if palabra!=" ":
+                dic.update({palabra:1})
     linea=archivo.readline()
 print("Las palabras encontradas son:\Formato:(palabra,ocurrencias)")
 for x in dic:
-    print('({},{}) '.format(x,dic.get(x)))
+    print('({},{}) '.format(x,dic.get(x)))#imprime con formato
 print("Esas son las palabras que hay en el archivo")  
-archivo.close()
+archivo.close()#Cierra el archivo
