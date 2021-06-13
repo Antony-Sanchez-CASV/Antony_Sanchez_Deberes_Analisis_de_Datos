@@ -1,15 +1,12 @@
 # Antony_Sanchez_Deberes_Analisis_de_Datos
-Trabajo en clase 
-El objetivo es contar el número de ocurrencias de las palabras en un archivo de texto. El resultado final deberá ser similar a:
+Desarrollar una aplicación que me permita multiplicar matrices con numpy.
 
-(harry,250) 
+El usuario debe ingresar las dimensiones de las matrices y los datos de la misma.
 
-(potter,153) 
+Se debe validar las dimensiones y los datos ingresados.
 
-(niño,48 )
+
 <br>
-     <img src="https://github.com/Antony-Sanchez-CASV/Antony_Sanchez_Deberes_Analisis_de_Datos/blob/Trabajo-en-clase-Ocurrencias-con-diccionarios/Imagenes%20de%20ocurrencia/1.png">
-     <img src="https://github.com/Antony-Sanchez-CASV/Antony_Sanchez_Deberes_Analisis_de_Datos/blob/Trabajo-en-clase-Ocurrencias-con-diccionarios/Imagenes%20de%20ocurrencia/2.png">
-     <img src="https://github.com/Antony-Sanchez-CASV/Antony_Sanchez_Deberes_Analisis_de_Datos/blob/Trabajo-en-clase-Ocurrencias-con-diccionarios/Imagenes%20de%20ocurrencia/3.png">
-     <img src="https://github.com/Antony-Sanchez-CASV/Antony_Sanchez_Deberes_Analisis_de_Datos/blob/Trabajo-en-clase-Ocurrencias-con-diccionarios/Imagenes%20de%20ocurrencia/4.png">
+     <img src="">
+
 </br>
