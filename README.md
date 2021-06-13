@@ -7,9 +7,11 @@ El objetivo es contar el número de ocurrencias de las palabras en un archivo d
 (potter,153) 
 
 (niño,48 )
------------------------------
 
+-----------------------------
 Imagenes del ejercicio
+----------------------------
+
 <br>
      <img src="https://github.com/Antony-Sanchez-CASV/Antony_Sanchez_Deberes_Analisis_de_Datos/blob/Trabajo-en-clase-Ocurrencias-con-diccionarios/Imagenes%20de%20ocurrencia/1.png">
      <img src="https://github.com/Antony-Sanchez-CASV/Antony_Sanchez_Deberes_Analisis_de_Datos/blob/Trabajo-en-clase-Ocurrencias-con-diccionarios/Imagenes%20de%20ocurrencia/2.png">
