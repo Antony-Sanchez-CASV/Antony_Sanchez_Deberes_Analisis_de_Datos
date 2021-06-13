@@ -8,7 +8,7 @@ while linea!="":
     for i in range(len(palabras)):
         palabra=re.sub('[?|.|!|\/|;|:|,|”|“|(|)]','',palabras[i])
         #Elimina los caracteres no deseados
-        #No elimina ' y - por que podria cauasr muchas confuciones
+        #No elimina ' y - por que podria causar muchas confuciones
         #Esos tendrian que ser con split pero no encuentro una manera de
         #adaptarlos para que no den problemas
         if palabra in dic:#revisa si existe la palabra
