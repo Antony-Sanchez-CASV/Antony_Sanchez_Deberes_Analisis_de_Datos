@@ -3,8 +3,11 @@
 Integrantes:
 ----------------------------
 Antony Sanchez
+
 Bryan Quisaguano
+
 Johán Quinatoa
+
 Jhosef Rea
 
 --------------------------
