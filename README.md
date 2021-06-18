@@ -23,8 +23,6 @@ Se debe validar las dimensiones y los datos ingresados.
 Imagenes del ejercicio
 ----------------------------
 <br>
-     <img src="https://github.com/Antony-Sanchez-CASV/Antony_Sanchez_Deberes_Analisis_de_Datos/blob/Multiplicaci%C3%B3n-de-matrices-con-Numpy/Imagenes%20de%20Multiplicacion%20Matrices%20con%20numpy/1.png">
-     <img src="https://github.com/Antony-Sanchez-CASV/Antony_Sanchez_Deberes_Analisis_de_Datos/blob/Multiplicaci%C3%B3n-de-matrices-con-Numpy/Imagenes%20de%20Multiplicacion%20Matrices%20con%20numpy/2.png">
-     <img src="https://github.com/Antony-Sanchez-CASV/Antony_Sanchez_Deberes_Analisis_de_Datos/blob/Multiplicaci%C3%B3n-de-matrices-con-Numpy/Imagenes%20de%20Multiplicacion%20Matrices%20con%20numpy/3.png">
+     <img src="https://github.com/Antony-Sanchez-CASV/Antony_Sanchez_Deberes_Analisis_de_Datos/blob/Multiplicaci%C3%B3n-de-matrices-con-Numpy/1.png">
 
 </br>
