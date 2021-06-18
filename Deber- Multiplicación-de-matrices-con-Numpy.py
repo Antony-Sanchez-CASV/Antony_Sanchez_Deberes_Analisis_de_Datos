@@ -49,5 +49,5 @@ print()
 print("Las matrices a multiplicar son: ")
 print("Matriz 1 de: (",f1," x ",c1,")\n",matriz1,"\nMatriz 2de: (",f2," x ",c2,")\n",matriz2)
 
-print("La matriz resulatante:\n",matrizR,"\nCreado por Antony Sanchez\n\n\n\n")
+print("La matriz resulatante:\n",matrizR,"\nCreado por:\nAntony Sanchez\nJohan Quinatoa\nBryan Quisaguano\nJhosef Rea\n\n\n\n")
         
