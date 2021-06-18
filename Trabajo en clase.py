@@ -21,4 +21,4 @@ print("Las palabras encontradas son:\Formato:(palabra,ocurrencias)")
 for x in dic:
     print('({},{}) '.format(x,dic.get(x)))#imprime con formato
 print("Esas son las palabras que hay en el archivo")  
-archivo.close()#Cierra el archivo
+archivo.close() #Cierra el archivo
